@@ -56,22 +56,7 @@ Maticent Industries Limited is a premium IT solutions and hardware provider dedi
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📁 Project Structure
 
-```text
-project/
-├── app/              # Next.js App Router pages and layouts
-├── components/       # Reusable UI components and sections
-│   ├── animations/   # GSAP-powered animation components
-│   ├── layout/       # Navigation and footer
-│   ├── sections/     # Page-level content sections
-│   └── ui/           # Radix-based primitive components
-├── data/             # Static data for products, news, and categories
-├── hooks/            # Custom React hooks
-├── lib/              # Utility functions and shared libraries
-├── public/           # Static assets (images, videos, fonts)
-└── types/            # TypeScript type definitions
-```
 
 ## 📄 License
 
